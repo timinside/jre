@@ -1,1 +1,1 @@
-minimal java win32
+Minimal Java Runtime Environment 8
